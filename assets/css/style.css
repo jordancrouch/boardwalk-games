@@ -68,6 +68,18 @@ h2 {
     margin-bottom: 1.5rem;
 }
 
+/* New Games */
+#new-games .card {
+    margin-bottom: 1.5rem;
+    border: none;
+}
+
+/* Favourite Games */
+#fav-games .card {
+    margin-bottom: 1.5rem;
+    border: none;
+}
+
 /* grid visualisation CSS for testing */
 
 /* .container,
