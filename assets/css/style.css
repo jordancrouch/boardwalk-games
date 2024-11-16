@@ -81,16 +81,10 @@ h2 {
 }
 
 /* Events */
-#events p span {
+#events .discount-text {
     background-color: var(--highlight-color);
     color: white;
-    font-weight: bold;
     padding: 4px 12px;
-    display: block;
-}
-
-#events .custom-button-outline {
-    display: inline-block;
 }
 
 /* Services */
@@ -165,11 +159,6 @@ h2 {
     /* Make all service cards the same height for consistency */
     #services .card-body {
         min-height: 191px;
-    }
-
-    /* Make events boxed text auto-width */
-    #events p span {
-        display: inline-block;
     }
 }
 
