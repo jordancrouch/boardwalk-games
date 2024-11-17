@@ -107,6 +107,16 @@ h2 {
     border: none;
 }
 
+/* Reserve a game section */
+#reserve.section {
+    margin-bottom: 2rem;
+}
+
+/* Booking form */
+#booking-form.section {
+    margin-bottom: 2rem;
+}
+
 /* Footer / Contact */
 #contact {
     background-color: var(--primary-color);
